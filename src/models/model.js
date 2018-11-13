@@ -2,7 +2,7 @@ export const namespace = 'index';
 
 import { WebSocketHelper } from '../utils/WebSocketHelper';
 
-const webSocketURL = 'ws://10.50.43.252:8080/websocket';
+const webSocketURL = 'ws://ip:8080/websocket';
 
 // const socket = WebSocketHelper(webSocketURL);
 // socket.onopen = function() {};
